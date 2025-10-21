@@ -28,3 +28,6 @@ Even with the necessary anonymization, this code sample effectively illustrates:
 ## 5. Note
 
 I am happy to discuss the technical aspects of this code and my approach to solving the problems presented in the assessment during an interview, within the bounds of the confidentiality agreement.
+
+# Note
+Due to Github's upload file size limit, a CSV file was not uploaded. You can download the full version from [my Google Drive](https://drive.google.com/file/d/1RBJ0D0owV_nx8UjbYYWAfa0Wx8RXHjuk/view?usp=sharing).
