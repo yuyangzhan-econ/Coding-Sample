@@ -1,0 +1,18 @@
+="Firm-to-firm-Level Treatment Effects"
+
+="",="(1)",="(2)",="(3)"
+="",="Whether there is a sale",="Number of transactions",="Total sales amount"
+
+="treat_post",="0.000*",="0.001*",="0.032"
+="",="(0.000)",="(0.001)",="(0.125)"
+
+="_cons",="0.002***",="0.023***",="0.502***"
+="",="(0.000)",="(0.000)",="(0.042)"
+
+="Observations",="3311814",="3311814",="3311814"
+="R-squared",="0.811",="0.811",="0.309"
+
+="Standard errors in parentheses, clustered at firm level."
+="*** p<0.01, ** p<0.05, * p<0.1"
+=""
+=""
